@@ -121,7 +121,7 @@ System Administrator and Engineering Internetworking graduate student with exper
 
 ### In Progress
 - Fortinet NSE 4 – Network Security Professional
-- 
+- Fortinet NSE 5 – FortiAnalyzer Analyst 
 
 
 ---
