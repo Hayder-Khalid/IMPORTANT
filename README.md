@@ -118,6 +118,7 @@ System Administrator and Engineering Internetworking graduate student with exper
 - CompTIA Network+
 - Cisco Certified Network Associate (CCNA 200-301)
 - LPI Linux Essentials
+- Cisco CyberOps Associate
 
 ### In Progress
 - Fortinet NSE 4 – Network Security Professional
